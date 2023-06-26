@@ -1,0 +1,12 @@
+{
+  "dashboard": "/",
+  "routes": {
+    "/farmer": "Agricultor",
+    "/analytics": "Análise"
+  },
+  "methods": {
+    "/create": "Adicionar",
+    "/search": "Pesquisar",
+    "/update": "Atualizar"
+  }
+}
